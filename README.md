@@ -11,3 +11,6 @@ Reglas:
   cuando eso pasa se agrega el puntaje actual al puntaje global y luego comienza el turno del próximo jugador.
 - El primer jugador en llegar a 100 puntos en puntaje global gana la partida
   (se puede agregar un puntaje final alternativo, en ese caso usara el puntaje alternativo como condición final).
+  
+  
+  ### Podes verlo funcionar online acá: [GitHub](http://github.com)
