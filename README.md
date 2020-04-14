@@ -1,7 +1,6 @@
 # El Cerdo - Juego de dados con JS, HTML y CSS.
 
-Es un proyecto simple que hice para practicar la lógica en JS.
-*basado en The Complete JavaScript Course 2020 - Jonas Schmedtmann*
+###### Es un proyecto simple que hice para practicar la lógica en JS. *Basado en The Complete JavaScript Course 2020 - Jonas Schmedtmann*
 
 Reglas:
 - Es un juego de 2 jugadores, se juega por rondas.
