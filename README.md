@@ -1,4 +1,4 @@
-# elCerdo--juegoDeDados-
+# el Cerdo (juegoDeDados)
 Juego de dados con JS, HTML y CSS.
 Es un proyecto simple que hice para practicar la lógica en JS
 
