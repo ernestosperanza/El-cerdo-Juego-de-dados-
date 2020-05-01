@@ -12,4 +12,4 @@ Reglas:
 - El primer jugador en llegar a 100 puntos en puntaje global gana la partida
   (se puede agregar un puntaje final alternativo, en ese caso usara el puntaje alternativo como condición final).
 
-##### Podes ver el sitio en funcionamiento acá:  [El Cerdo](https://ernestosperanza-juego-de-dados.netlify.app/)
+##### Podes ver el sitio en funcionamiento acá:  [El Cerdo](https://ernestosperanza-juego-de-dados.netlify.app/){:target="_blank"}
